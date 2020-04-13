@@ -4,7 +4,7 @@ permalink: /press/
 layout: secondary-narrow
 ---
 
-# Press
+# News Coverage
 
 ## Media inquiries
 
@@ -36,7 +36,7 @@ Research revealed that our users wanted an experience that felt more modern and 
 
 If you have suggestions, we’d love to hear them — share your feedback [via email](mailto:sbir@nsf.gov).
 
-## Additional resources
+## Reference
 
 [NSF newsroom](https://www.nsf.gov/news/newsroom.jsp): Our newsroom features news releases, media advisories, photo galleries, and other resources for the news media. Subscribe to [NSF news alerts](https://nsf.gov/news/) and see a list of all [NSF social media](https://www.nsf.gov/social/) accounts.
 
